@@ -3,7 +3,7 @@ NU Coding Boot Camp Assingment #11
 
 This is assignment #3 the June - December 2020 cohort of Coding Bootcamp through Northwestern University and Trilogy Education Services.
 
-(Link to deployed application on Heroku)[https://ts-note-taker.herokuapp.com/]
+[Link to deployed application on Heroku](https://ts-note-taker.herokuapp.com/)
 
 Original Assignment Description is below:
 
